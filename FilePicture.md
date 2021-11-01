@@ -152,7 +152,7 @@ Verify the deployment by navigating to your server address in your preferred bro
 127.0.0.1:8000
 ```
 
-#### Kubernetes + Google Cloud
+
 
 See [KUBERNETES.md](https://github.com/joemccann/dillinger/blob/master/KUBERNETES.md)
 
